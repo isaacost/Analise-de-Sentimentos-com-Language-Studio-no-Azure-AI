@@ -59,10 +59,6 @@ Entidades identificadas:
 - Classificação automática de e-mails e tickets de suporte.
 - Análise de sentimentos em avaliações de produtos.
 
-## Capturas de Tela
-
-_Aqui você pode adicionar prints do processo realizado no Language Studio._
-
 ---
 
 ## Referências
